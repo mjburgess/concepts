@@ -1,0 +1,19 @@
+name: qa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - numpy
+    - seaborn
+    - matplotlib
+    - plotly
+    - networkx
+    - nltk
+    - gensim 
+    - python-Levenshtein
+    - pygraphviz
+    - pandas
+    - matplotlib
+    - rise
