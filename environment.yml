@@ -7,7 +7,7 @@ dependencies:
   - pip:
     - numpy
     - seaborn
-    - sklearn=0.23.1
+    - sklearn
     - matplotlib
     - plotly
     - networkx
