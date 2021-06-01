@@ -1,4 +1,4 @@
-# data insight concepts & case studies
+# Data Insight Concepts & Case Studies
 
 material for support of the course above, available from Tue 1st June 2021 until morning of following Friday.
 
